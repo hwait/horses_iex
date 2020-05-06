@@ -1,0 +1,6 @@
+.active-row {
+    background-color: #ceebfc
+  }
+  .ant-table-selection-col, .ant-table-selection-column {
+    display: none;
+  }

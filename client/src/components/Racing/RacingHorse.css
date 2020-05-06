@@ -1,0 +1,16 @@
+.graph {
+  width: 100%;
+  height: 500px;
+  }
+  .horse-block {
+    width: 100%;
+    margin: 5;
+
+  }
+  .dygraph-legend {
+    background-color: white !important;
+    margin-top: 10px !important;
+    margin-left: 60px !important;
+  }
+  
+  

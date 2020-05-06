@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\hwait\\Miniconda3\\envs\\tfenv\\python.exe",
+    "python.dataScience.textOutputLimit": 0,
+    "editor.maxTokenizationLineLength": 200000,
+    "editor.formatOnSave": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

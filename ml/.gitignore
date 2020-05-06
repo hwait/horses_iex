@@ -1,0 +1,7 @@
+/data
+/info
+/output
+/docs
+*.cbm
+*.xlsx
+*.csv
